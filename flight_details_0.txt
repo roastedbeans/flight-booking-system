@@ -1,0 +1,19 @@
+=== Flight Details ===
+Location: Mactan International Airport
+Destination: DOHA
+Departure Time: 10:00 AM
+Date: 23
+Bag Check-in: yes
+Account Details:
+Full Name: T
+Age: 6750313
+Gender: h
+Address: o
+Occupation: 
+Nationality: ÌíÙtÿ
+Height(m): 32767
+Weight(kg): 544283192
+Civil Status: ÷
+Priority Number: 1
+Number of Passengers: 238
+Price: 8000 pesos
